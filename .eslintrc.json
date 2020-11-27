@@ -1,0 +1,19 @@
+{
+    "parser": "babel-eslint",
+    "env": {
+        "node": true,
+        "commonjs": true,
+        "es2020": true
+    },
+    "plugins": ["import"],
+    "extends": "airbnb-base",
+    "parserOptions": {
+        "ecmaVersion": 11
+    },
+    "rules": {
+        "indent": ["error", 2],
+        "quotes": ["error", "single", { "avoidEscape": true }],
+        "camelcase": "off",
+        "no-underscore-dangle": "off"
+    }
+}
