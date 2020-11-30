@@ -1,8 +1,9 @@
 {
   "name": "just-another-timer",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Just another zero-dependency timer based on Node.js performance API.",
   "author": "Nikita 'Korbiwe' Stepanchenko",
+  "license": "MIT",
   "devDependencies": {
     "eslint": "7.5.0",
     "eslint-config-airbnb-base": "14.2.0",
