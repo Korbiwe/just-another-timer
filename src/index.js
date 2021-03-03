@@ -1,6 +1,6 @@
 const getHrTime = () => {
     const nanoseconds = process.hrtime.bigint();
-    return nanoseconds / 1e6;
+    return nanoseconds / BigInt(1e6);
 };
 
 // Timer names should ideally be unique
