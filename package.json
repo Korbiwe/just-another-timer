@@ -1,6 +1,6 @@
 {
   "name": "just-another-timer",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "Just another zero-dependency timer based on Node.js performance API.",
   "author": "Nikita 'Korbiwe' Stepanchenko",
   "license": "MIT",
