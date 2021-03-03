@@ -1,1 +1,1 @@
-Just another zero-dependency timer based on Node.js performance API.
+Just another zero-dependency timer based on process.hrtime().
